@@ -1,7 +1,7 @@
 Imports: Include the other Cairo files.
-Storage Variables: Define any necessary storage.
-User Interface: Implement text-based interaction logic.
-System Coordination: Calls functions in other modules to manage the inventory system.
+Storage Variables:
+User Interface:
+System Coordination: 
 
 # @file main.cairo
 
